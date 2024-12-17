@@ -1,15 +1,15 @@
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/LavaGang/MelonLoader.Installer/master/Resources/ML_Icon.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/LavaGang/MelonLoader.Installer/master/Resources/ML_Text.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/MelonixLoader/MelonixLoader.Installer/master/Resources/ML_Icon.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/MelonixLoader/MelonixLoader.Installer/master/Resources/ML_Text.png"></a>
 </p>
 
 ---
 
 <p align="center">
-	<a href="https://github.com/LavaGang/MelonLoader/releases/latest"><img src="https://img.shields.io/github/v/release/LavaGang/MelonLoader?label=latest&style=for-the-badge"></a>
-	<a href="https://github.com/LavaGang/MelonLoader/releases"><img src="https://img.shields.io/github/downloads/LavaGang/MelonLoader/total.svg?style=for-the-badge"></a>
-	<a href="https://github.com/LavaGang/MelonLoader/graphs/contributors"><img src="https://img.shields.io/github/contributors/LavaGang/MelonLoader?style=for-the-badge"></a>
+	<a href="https://github.com/MelonixLoader/MelonixLoader/releases/latest"><img src="https://img.shields.io/github/v/release/MelonixLoader/MelonixLoader?label=latest&style=for-the-badge"></a>
+	<a href="https://github.com/MelonixLoader/MelonixLoader/releases"><img src="https://img.shields.io/github/downloads/MelonixLoader/MelonixLoader/total.svg?style=for-the-badge"></a>
+	<a href="https://github.com/MelonixLoader/MelonixLoader/graphs/contributors"><img src="https://img.shields.io/github/contributors/MelonixLoader/MelonixLoader?style=for-the-badge"></a>
 	<a href="https://discord.gg/2Wn3N2P"><img src="https://img.shields.io/discord/663449315876012052?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
@@ -18,9 +18,9 @@
 ## GENERAL INFORMATION:
 
 - Debug Mode is for Development Purposes.  
-Use it to help Develop and Debug MelonLoader, Plugins, and Mods.
+Use it to help Develop and Debug MelonixLoader, Plugins, and Mods.
 <br></br>
-- All Logs are made in the created `MelonLoader/Logs` folder in your Game's Installation Folder.
+- All Logs are made in the created `MelonixLoader/Logs` folder in your Game's Installation Folder.
 - All Plugins get placed in the created `Plugins` folder in your Game's Installation Folder.
 - All Mods get placed in the created `Mods` folder in your Game's Installation Folder.
 <br></br>
@@ -37,18 +37,18 @@ Use it to help Develop and Debug MelonLoader, Plugins, and Mods.
 | Usage Guides: |
 | - |
 | [INSTALLER](#how-to-use-the-installer) |
-| [MANUAL USE](#how-to-manually-use-melonloader) |
+| [MANUAL USE](#how-to-manually-use-MelonixLoader) |
 
 | Example Projects: |
 | - |
-| [TestPlugin](https://github.com/LavaGang/TestPlugin) |
-| [TestMod](https://github.com/LavaGang/TestMod) |
+| [TestPlugin](https://github.com/MelonixLoader/TestPlugin) |
+| [TestMod](https://github.com/MelonixLoader/TestMod) |
 
 | Nightly Builds: |
 | - |
-| [master](https://nightly.link/LavaGang/MelonLoader/workflows/build/master) |
-| [alpha-development](https://nightly.link/LavaGang/MelonLoader/workflows/build/alpha-development) |
-| [universality](https://nightly.link/LavaGang/MelonLoader/workflows/build/universality) |
+| [master](https://nightly.link/MelonixLoader/MelonixLoader/workflows/build/master) |
+| [alpha-development](https://nightly.link/MelonixLoader/MelonixLoader/workflows/build/alpha-development) |
+| [universality](https://nightly.link/MelonixLoader/MelonixLoader/workflows/build/universality) |
 
 ---
 
@@ -78,14 +78,14 @@ Use it to help Develop and Debug MelonLoader, Plugins, and Mods.
 
 | Installer Guides: |
 | - |
-| [INSTALL](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader) |
-| [UPDATE](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader) |
-| [RE-INSTALL](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-melonloader) |
-| [UN-INSTALL](https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-un-install-melonloader) |
+| [INSTALL](https://github.com/MelonixLoader/MelonixLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-MelonixLoader) |
+| [UPDATE](https://github.com/MelonixLoader/MelonixLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-MelonixLoader) |
+| [RE-INSTALL](https://github.com/MelonixLoader/MelonixLoader.Installer/blob/master/README.md#how-to-install-re-install-or-update-MelonixLoader) |
+| [UN-INSTALL](https://github.com/MelonixLoader/MelonixLoader.Installer/blob/master/README.md#how-to-un-install-MelonixLoader) |
 
 ---
 
-## HOW TO MANUALLY USE MELONLOADER:
+## HOW TO MANUALLY USE MelonixLoader:
 
 ### UPDATE / RE-INSTALL:
 
@@ -97,16 +97,16 @@ Use it to help Develop and Debug MelonLoader, Plugins, and Mods.
 
 1. Make sure the Game is Closed and Not Running before attempting to Install.
 2. Make sure you have all the [Requirements](#requirements) Installed before attempting to Install.
-3. Download MelonLoader [[x86](https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.x86.zip)] [[x64](https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.x64.zip)]
-4. Extract the MelonLoader folder from the MelonLoader Zip Archive to the Game's Installation Folder.
-5. Extract version.dll & dobby.dll from the MelonLoader Zip Archive to the Game's Installation Folder.
+3. Download MelonixLoader [[x86](https://github.com/MelonixLoader/MelonixLoader/releases/latest/download/MelonixLoader.x86.zip)] [[x64](https://github.com/MelonixLoader/MelonixLoader/releases/latest/download/MelonixLoader.x64.zip)]
+4. Extract the MelonixLoader folder from the MelonixLoader Zip Archive to the Game's Installation Folder.
+5. Extract version.dll & dobby.dll from the MelonixLoader Zip Archive to the Game's Installation Folder.
 
 
 ### UN-INSTALL:
 
 1. Make sure the Game is Closed and Not Running before attempting to UN-INSTALL.
 2. Remove the version.dll & dobby.dll files from the Game's Installation Folder.
-3. Remove the MelonLoader folder from the Game's Installation Folder.
+3. Remove the MelonixLoader folder from the Game's Installation Folder.
 
 These additional steps below are OPTIONAL if you want to do a FULL UN-INSTALL.
 
@@ -144,36 +144,36 @@ These additional steps below are OPTIONAL if you want to do a FULL UN-INSTALL.
 
 ## LAUNCH OPTIONS:
 
-- These are additional Launch Options that MelonLoader adds to the Game.
-- These can be used to manipulate how MelonLoader works.
+- These are additional Launch Options that MelonixLoader adds to the Game.
+- These can be used to manipulate how MelonixLoader works.
 
 | Argument | Description |
 | - | - |
 | --no-mods | Launches the Game without loading any Plugins or Mods |
 | --quitfix | Fixes the Hanging Process Issue with some Games |
-| --melonloader.consolemode | Changes the Theme Display Mode of the Console [ Default = 0 ] |
-| --melonloader.consoleontop | Forces the Console to always stay on-top of all other Applications |
-| --melonloader.consoledst | Keeps the Console Title as Original |
-| --melonloader.hideconsole | Hides the Console |
-| --melonloader.hidewarnings | Hides Warnings from Displaying |
-| --melonloader.debug | Debug Mode |
-| --melonloader.maxlogs | Max Log Files [ Default: 10 ] [ NoCap: 0 ] |
-| --melonloader.loadmodeplugins | Load Mode for Plugins [ Default: 0 ] |
-| --melonloader.loadmodemods | Load Mode for Mods [ Default: 0 ] |
-| --melonloader.basedir | Changes the Proxy's Load Directory for the Bootstrap |
-| --melonloader.disablestartscreen | Disable the Start Screen |
+| --MelonixLoader.consolemode | Changes the Theme Display Mode of the Console [ Default = 0 ] |
+| --MelonixLoader.consoleontop | Forces the Console to always stay on-top of all other Applications |
+| --MelonixLoader.consoledst | Keeps the Console Title as Original |
+| --MelonixLoader.hideconsole | Hides the Console |
+| --MelonixLoader.hidewarnings | Hides Warnings from Displaying |
+| --MelonixLoader.debug | Debug Mode |
+| --MelonixLoader.maxlogs | Max Log Files [ Default: 10 ] [ NoCap: 0 ] |
+| --MelonixLoader.loadmodeplugins | Load Mode for Plugins [ Default: 0 ] |
+| --MelonixLoader.loadmodemods | Load Mode for Mods [ Default: 0 ] |
+| --MelonixLoader.basedir | Changes the Proxy's Load Directory for the Bootstrap |
+| --MelonixLoader.disablestartscreen | Disable the Start Screen |
 
 
 - These ones below are Unity Engine specific Launch Options.
 
 | Argument | Description |
 | - | - |
-| --melonloader.unityversion | Allows you to Specify the Version of Unity Engine |
-| --melonloader.agfoffline | Forces Assembly Generator to Run without Contacting the Remote API |
-| --melonloader.agfregenerate | Forces Regeneration of Assembly |
-| --melonloader.agfregex | Forces Assembly Generator to use a Specified Regex |
-| --melonloader.agfvdumper | Forces Assembly Generator to use a Specified Version of Dumper |
-| --melonloader.disableunityclc | Disable Unity Console Log Cleaner |
+| --MelonixLoader.unityversion | Allows you to Specify the Version of Unity Engine |
+| --MelonixLoader.agfoffline | Forces Assembly Generator to Run without Contacting the Remote API |
+| --MelonixLoader.agfregenerate | Forces Regeneration of Assembly |
+| --MelonixLoader.agfregex | Forces Assembly Generator to use a Specified Regex |
+| --MelonixLoader.agfvdumper | Forces Assembly Generator to use a Specified Version of Dumper |
+| --MelonixLoader.disableunityclc | Disable Unity Console Log Cleaner |
 
 
 - These ones below are Cpp2IL specific Launch Options.
@@ -229,7 +229,7 @@ These additional steps below are OPTIONAL if you want to do a FULL UN-INSTALL.
 
 ## LICENSING & CREDITS:
 
-MelonLoader is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/LavaGang/MelonLoader/blob/master/LICENSE.md) for the full License.
+MelonixLoader is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/MelonixLoader/MelonixLoader/blob/master/LICENSE.md) for the full License.
 
 Third-party Libraries used as Source Code and/or bundled in Binary Form:
 - [Dobby](https://github.com/jmpews/Dobby) is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/jmpews/Dobby/blob/master/LICENSE) for the full License.
@@ -241,13 +241,13 @@ Third-party Libraries used as Source Code and/or bundled in Binary Form:
 - [MonoMod](https://github.com/MonoMod/MonoMod) is licensed under the MIT License. See [LICENSE](https://github.com/MonoMod/MonoMod/blob/master/LICENSE) for the full License.
 - [Mono.Cecil](https://github.com/jbevain/cecil) is licensed under the MIT License. See [LICENSE](https://github.com/jbevain/cecil/blob/master/LICENSE.txt) for the full License.
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) is licensed under the MIT License. See [LICENSE](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md) for the full License.
-- [TinyJSON](https://github.com/pbhogan/TinyJSON) is licensed under the MIT License. See [LICENSE](https://github.com/LavaGang/MelonLoader/blob/master/MelonLoader/TinyJSON/LICENSE.md) for the full License.
+- [TinyJSON](https://github.com/pbhogan/TinyJSON) is licensed under the MIT License. See [LICENSE](https://github.com/MelonixLoader/MelonixLoader/blob/master/MelonixLoader/TinyJSON/LICENSE.md) for the full License.
 - [Tomlet](https://github.com/SamboyCoding/Tomlet) is licensed under the MIT License. See [LICENSE](https://github.com/SamboyCoding/Tomlet/blob/master/LICENSE) for the full License.
 - [AsmResolver](https://github.com/Washi1337/AsmResolver) is licensed under the MIT License. See [LICENSE](https://github.com/Washi1337/AsmResolver/blob/master/LICENSE.md) for the full License.
-- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) is licensed under the MIT License. See [LICENSE](https://github.com/LavaGang/MelonLoader/blob/master/MelonLoader/SharpZipLib/LICENSE.txt) for the full License.
+- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) is licensed under the MIT License. See [LICENSE](https://github.com/MelonixLoader/MelonixLoader/blob/master/MelonixLoader/SharpZipLib/LICENSE.txt) for the full License.
 - [Semver](https://github.com/maxhauser/semver) is licensed under the MIT License. See [LICENSE](https://github.com/maxhauser/semver/blob/master/License.txt) for the full License.
-- [UnityEngine.Il2CppAssetBundleManager](https://github.com/LavaGang/UnityEngine.Il2CppAssetBundleManager) is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/LavaGang/UnityEngine.Il2CppAssetBundleManager/blob/master/LICENSE.md) for the full License.
-- [UnityEngine.Il2CppImageConversionManager](https://github.com/LavaGang/UnityEngine.Il2CppImageConversionManager) is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/LavaGang/UnityEngine.Il2CppImageConversionManager/blob/master/LICENSE.md) for the full License.
+- [UnityEngine.Il2CppAssetBundleManager](https://github.com/MelonixLoader/UnityEngine.Il2CppAssetBundleManager) is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/MelonixLoader/UnityEngine.Il2CppAssetBundleManager/blob/master/LICENSE.md) for the full License.
+- [UnityEngine.Il2CppImageConversionManager](https://github.com/MelonixLoader/UnityEngine.Il2CppImageConversionManager) is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/MelonixLoader/UnityEngine.Il2CppImageConversionManager/blob/master/LICENSE.md) for the full License.
 - [Illusion Plugin Architecture](https://github.com/Eusth/IPA) is licensed under the MIT License. See [LICENSE](https://github.com/Eusth/IPA/blob/master/LICENSE) for the full License.
 - [MuseDashModLoader](https://github.com/mo10/MuseDashModLoader) is licensed under the MIT License. See [LICENSE](https://github.com/mo10/MuseDashModLoader/blob/master/LICENSE) for the full License.
 - [mgGif](https://github.com/gwaredd/mgGif) is licensed under the MIT License. See [LICENSE](https://github.com/gwaredd/mgGif/blob/main/LICENSE) for the full License.
@@ -264,10 +264,10 @@ Third-party Libraries used as Source Code and/or bundled in Binary Form:
  
 External Libraries and Tools that are downloaded and used at Runtime:
 - [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) is licensed under the MIT License. See [LICENSE](https://github.com/SamboyCoding/Cpp2IL/blob/master/LICENSE) for the full License.
-- Unity Runtime Libraries from [Unity-Runtime-Libraries](https://github.com/LavaGang/Unity-Runtime-Libraries) are part of Unity Software.  
+- Unity Runtime Libraries from [Unity-Runtime-Libraries](https://github.com/MelonixLoader/Unity-Runtime-Libraries) are part of Unity Software.  
 Their usage is subject to [Unity Terms of Service](https://unity3d.com/legal/terms-of-service), including [Unity Software Additional Terms](https://unity3d.com/legal/terms-of-service/software).
 
-See [MelonLoader Wiki](https://melonwiki.xyz/#/credits) for the full Credits.
+See [MelonixLoader Wiki](https://melonwiki.xyz/#/credits) for the full Credits.
 
-MelonLoader is not sponsored by, affiliated with or endorsed by Unity Technologies or its affiliates.  
+MelonixLoader is not sponsored by, affiliated with or endorsed by Unity Technologies or its affiliates.  
 "Unity" is a trademark or a registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
