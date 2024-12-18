@@ -10,7 +10,7 @@
 	<a href="https://github.com/MelonixLoader/MelonixLoader/releases/latest"><img src="https://img.shields.io/github/v/release/MelonixLoader/MelonixLoader?label=latest&style=for-the-badge"></a>
 	<a href="https://github.com/MelonixLoader/MelonixLoader/releases"><img src="https://img.shields.io/github/downloads/MelonixLoader/MelonixLoader/total.svg?style=for-the-badge"></a>
 	<a href="https://github.com/MelonixLoader/MelonixLoader/graphs/contributors"><img src="https://img.shields.io/github/contributors/MelonixLoader/MelonixLoader?style=for-the-badge"></a>
-	<a href="https://discord.gg/2Wn3N2P"><img src="https://img.shields.io/discord/663449315876012052?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://discord.gg/MNBMv8uvmS"><img src="https://img.shields.io/discord/1318707388936884276?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 ---
