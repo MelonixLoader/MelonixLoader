@@ -271,3 +271,8 @@ See [MelonixLoader Wiki](https://melonwiki.xyz/#/credits) for the full Credits.
 
 MelonixLoader is not sponsored by, affiliated with or endorsed by Unity Technologies or its affiliates.  
 "Unity" is a trademark or a registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
+
+
+## Image licencing
+
+MelonixLoader background image provided by KDE under the Creative Commons Attribution-Share Alike 3.0 
